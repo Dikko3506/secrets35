@@ -1,10 +1,10 @@
 {
   "sources": {
     "PyPi": {
-      "changelog_serial": 19719468,
-      "last_package_timestamp": "2023-09-12T20:19:38Z",
+      "changelog_serial": 19719646,
+      "last_package_timestamp": "2023-09-12T20:40:53Z",
       "stats": {
-        "packages_searched": 2396911
+        "packages_searched": 2397018
       }
     },
     "RubyGems": {
