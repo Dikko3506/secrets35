@@ -7,10 +7,10 @@
       }
     },
     "PyPi": {
-      "changelog_serial": 20643644,
-      "last_package_timestamp": "2023-11-15T12:33:27Z",
+      "changelog_serial": 20644269,
+      "last_package_timestamp": "2023-11-15T13:22:01Z",
       "stats": {
-        "packages_searched": 2963474
+        "packages_searched": 2963834
       }
     },
     "RubyGems": {
