@@ -7,10 +7,10 @@
       }
     },
     "PyPi": {
-      "changelog_serial": 20640020,
-      "last_package_timestamp": "2023-11-15T07:38:12Z",
+      "changelog_serial": 20640431,
+      "last_package_timestamp": "2023-11-15T08:21:10Z",
       "stats": {
-        "packages_searched": 2961372
+        "packages_searched": 2961571
       }
     },
     "HexPm": {
