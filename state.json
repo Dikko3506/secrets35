@@ -1,16 +1,16 @@
 {
   "sources": {
+    "PyPi": {
+      "changelog_serial": 21468884,
+      "last_package_timestamp": "2024-01-17T19:38:29Z",
+      "stats": {
+        "packages_searched": 3476107
+      }
+    },
     "HexPm": {
       "last_package_timestamp": "2023-02-08T20:14:37.329308Z",
       "stats": {
         "packages_searched": 4113
-      }
-    },
-    "PyPi": {
-      "changelog_serial": 21468418,
-      "last_package_timestamp": "2024-01-17T19:15:15Z",
-      "stats": {
-        "packages_searched": 3475785
       }
     },
     "RubyGems": {
