@@ -6,17 +6,17 @@
         "packages_searched": 4113
       }
     },
-    "PyPi": {
-      "changelog_serial": 22374691,
-      "last_package_timestamp": "2024-03-18T16:41:06Z",
-      "stats": {
-        "packages_searched": 4043258
-      }
-    },
     "RubyGems": {
       "last_package_timestamp": "2023-02-08T20:33:52.167Z",
       "stats": {
         "packages_searched": 36749
+      }
+    },
+    "PyPi": {
+      "changelog_serial": 22375190,
+      "last_package_timestamp": "2024-03-18T17:16:40Z",
+      "stats": {
+        "packages_searched": 4043544
       }
     }
   }
