@@ -1,10 +1,9 @@
 {
   "sources": {
-    "PyPi": {
-      "changelog_serial": 23488361,
-      "last_package_timestamp": "2024-06-02T11:16:25Z",
+    "HexPm": {
+      "last_package_timestamp": "2023-02-08T20:14:37.329308Z",
       "stats": {
-        "packages_searched": 4733254
+        "packages_searched": 4113
       }
     },
     "RubyGems": {
@@ -13,10 +12,11 @@
         "packages_searched": 36749
       }
     },
-    "HexPm": {
-      "last_package_timestamp": "2023-02-08T20:14:37.329308Z",
+    "PyPi": {
+      "changelog_serial": 23488479,
+      "last_package_timestamp": "2024-06-02T11:37:50Z",
       "stats": {
-        "packages_searched": 4113
+        "packages_searched": 4733326
       }
     }
   }
