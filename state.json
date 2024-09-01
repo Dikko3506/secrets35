@@ -1,12 +1,5 @@
 {
   "sources": {
-    "PyPi": {
-      "changelog_serial": 24829952,
-      "last_package_timestamp": "2024-09-01T05:40:18Z",
-      "stats": {
-        "packages_searched": 5577415
-      }
-    },
     "HexPm": {
       "last_package_timestamp": "2023-02-08T20:14:37.329308Z",
       "stats": {
@@ -17,6 +10,13 @@
       "last_package_timestamp": "2023-02-08T20:33:52.167Z",
       "stats": {
         "packages_searched": 36749
+      }
+    },
+    "PyPi": {
+      "changelog_serial": 24830157,
+      "last_package_timestamp": "2024-09-01T06:28:03Z",
+      "stats": {
+        "packages_searched": 5577556
       }
     }
   }
